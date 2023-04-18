@@ -1,0 +1,5 @@
+git clone - This command clones the repository from main Github server to our local machine
+git add - This comand is used to add new created files in local machine to the main Github repository
+git commit - This command is used to commit changes
+git push - it pushes the newly created files frrom local machine to main Github repository
+git status - This command is used to check the status of our git repository, whether it is updated or not
