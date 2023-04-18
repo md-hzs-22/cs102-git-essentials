@@ -3,3 +3,7 @@ git add - This comand is used to add new created files in local machine to the m
 git commit - This command is used to commit changes
 git push - it pushes the newly created files frrom local machine to main Github repository
 git status - This command is used to check the status of our git repository, whether it is updated or not
+
+Summary:
+So in today's lecture i learned that git is a very useful tool for project management and group assignments.  It makes it easy fordevelopers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work.
+
